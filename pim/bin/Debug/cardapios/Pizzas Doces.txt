@@ -1,0 +1,7 @@
+065               Abacaxi_com_Coco   38.70   Chocolate_branco,coco_ralado,abacaxi.
+066	                    Banana   33.70   Banana,leite_condensado,canela.
+067           Banana_com_Chocolate   37.70   Banana_com_chocolate.
+068	                Brigadeiro   37.70   Chocolate_cremoso,granulado.
+069	                  2_Amores   38.70   Chocolate_ao_leite,chocolate_branco,leite_condensado,uva.
+070	                   Konfeti   37.70   Chocolate_cremoso,confeitos_coloridos.
+071	           Romeu_e_Julieta   33.70   Mussarela,goiabada_cremosa.

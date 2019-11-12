@@ -1,0 +1,7 @@
+053	              Atum_Premium   51.70   Atum_solido,catupiry_original,cebola_roxa.
+054	            Frango_Premium   46.90   Frango_desfiado,catupiry_original,cebola_roxa.
+055	                    Mignon   51.70   Mignon_em_tiras,barbecue,cebola,champignon,catupiry.
+056	                Nordestina   54.90   Carne_seca,cebola_roxa,catupiry_original,queijo coalho,pimenta_biquinho.
+057	           Parma_c/_Rúcula   51.70   Mussarela,rúcula,presunto_parma,alho_frito.
+058	                  Quarteto   49.90   Lombo,palmito,catupiry_original,bacon.
+059	                  Zucchini   47.90   Abobrinha_confitada,ricota_temperada,tomate cereja,parmesão.

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1569970527 source:c:\users\paulinho\desktop\pim\pim1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1573422207 source:c:\users\pauli\desktop\pim\pim1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+

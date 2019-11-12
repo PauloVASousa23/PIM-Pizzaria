@@ -1,0 +1,3 @@
+Paulo        1234       administrador
+Victor       1234       atendente
+Joao         1234	administrador

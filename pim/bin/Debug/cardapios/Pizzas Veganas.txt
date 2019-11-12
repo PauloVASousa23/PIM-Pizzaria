@@ -1,0 +1,5 @@
+060       	 Brocolis_Especial   44.70   Brocolis,requeijao_vegano,alho_frito.
+061	             Calabresa_Veg   44.70   Requeijao_vegano,calabresa_vegetal,cebola_roxa,pimenta_biquinho.
+062	                Jaca_Louca   49.70   Carne_de_jaca_temperada,requeijao_vegano,cebola_roxa,tomate_picado.
+063	               Super_Verde   47.70   Brocolis,ervilha,milho,champignon,palmito,tomate,requeijao_vegano.
+064	             Prestigio_Veg   23.90   Creme_de_chocolate_vegetal,coco_ralado.

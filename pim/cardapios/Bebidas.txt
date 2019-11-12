@@ -1,0 +1,11 @@
+020     	   Coca_Cola_300ml   4.00
+021     	   Coca_Cola_600ml   6.00
+022     	      Coca-Cola_2L   9.00
+023            Fanta_Laranja_300ml   4.00
+024            Fanta_Laranja_600ml   6.00
+025       	   Fanta_Uva_300ml   4.00
+026       	   Fanta_Uva_600ml   6.00
+027        	       Pepsi_300ml   4.00
+028      	       Pepsi_600ml   6.00
+029                           Agua   3.50
+030                       itubaina   7.50   

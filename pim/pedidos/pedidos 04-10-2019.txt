@@ -1,0 +1,25 @@
+                     Calabresa  1 32.70 14:10
+                     Calabresa  1 32.70 14:15
+                    Marguerita  2 69.40 14:16
+                        Mansur  1 39.90 15:12
+               Coca-Cola_300ml  1 4.00 19:44
+               Coca-Cola_300ml  1 4.00 19:45
+               Coca_Cola_300ml  0 00.00 19:53 CANCELADO
+                  Coca-Cola_2L  0 00.00 19:53 CANCELADO
+                  Coca-Cola_3L  1 11.00 19:54
+                   Milho_verde  1 34.70 19:54
+                   Pepsi_300ml  2 8.00 19:55
+                        Gaúcha  1 42.00 20:00
+               Atum_Especial_I  2 85.40 20:00
+                        Romana  1 46.00 20:01
+                        Gaúcha  1 42.00 20:03
+               Coca_Cola_600ml  2 12.00 20:03
+                   Brocolis_II  2 84.00 20:07
+           Marguerita_Especial  1 40.70 20:08
+               Coca_Cola_600ml  1 6.00 20:09
+                     Calabresa  1 32.70 20:29
+               Coca_Cola_600ml  2 12.00 20:29
+                 Portuguesa_II  2 85.40 20:30
+               Misto_Quente_II  0 00.00 20:30 CANCELADO
+                     Calabresa  1 32.70 22:27
+               Coca_Cola_600ml  2 12.00 22:27
