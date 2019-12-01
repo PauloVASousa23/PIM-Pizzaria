@@ -1,0 +1,8 @@
+Paulo 1234 administrador
+Caio 1234 pizzaiolo
+Talita 1234 administrador
+Diego 4321 atendente
+juliana 1234 pizzaiolo
+Juliana 1234 administrador
+Pedro 1234 atendente
+Administrador admin administrador

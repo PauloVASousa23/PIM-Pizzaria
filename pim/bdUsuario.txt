@@ -1,3 +1,5 @@
-Paulo        1234       administrador
-Victor       1234       atendente
-Joao         1234	administrador
+Paulo 1234 administrador
+Caio 1234 atendente
+Diego 4321 atendente
+Juliana 1234 pizzaiolo
+Administrador admin administrador
